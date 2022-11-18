@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class q3 {
     public static void main(String[] args) {        
         Scanner scan = new Scanner(System.in);
-        int[][] mat = new int[3][3];
+        int[][] mat = new int[6][6];
         int x, confirma=0;
 
         for(int i=0;i<mat.length;i++){
